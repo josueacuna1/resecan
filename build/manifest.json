@@ -1,0 +1,64 @@
+{
+  "short_name": "Resckan, en Busca de los Ladridos Perdidos",
+  "name": "Resckan",
+  "description": "Resckan nos cuenta la historia de Eirian, un intrépido explorador que se embarcó en una aventura épica a través de tres distintas regiones en busca de sus mejores amigos, ya que, el monstruo de lava se robó a todos los perritos de la aldea",
+  "icons": [
+    {
+      "src": "logo_16.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo_64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "logo_32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "screenshots": [
+    
+    {
+      "src": "Lava.png",
+      "sizes": "2622x1628",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Explora los paisajes",
+      "description": "Explora, lucha y rescata a los perritos de la aldea, Eriran te necesita."
+    },
+    {
+      "src": "Altoria.png",
+      "sizes": "2622x1628",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Explora los paisajes",
+      "description": "Explora, lucha y rescata a los perritos de la aldea, Eriran te necesita."
+    },
+    {
+      "src": "Lava.png",
+      "sizes": "2622x1628",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Explora los paisajes",
+      "description": "Explora, lucha y rescata a los perritos de la aldea, Eriran te necesita."
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
