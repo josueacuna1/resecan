@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/resecan/static/css/main.3ee09cc3.css",
-    "main.js": "/resecan/static/js/main.8b446e26.js",
+    "main.js": "/resecan/static/js/main.8aa02409.js",
     "static/js/787.fb771931.chunk.js": "/resecan/static/js/787.fb771931.chunk.js",
     "static/media/logogrande-2.svg": "/resecan/static/media/logogrande-2.e2a4bb3d2c13cbe0d0655da0ad68c417.svg",
     "static/media/generate_one_that_can_be_used_in_the_background_-2.png": "/resecan/static/media/generate_one_that_can_be_used_in_the_background_-2.9264a89eb06dea39a7b3.png",
@@ -30,11 +30,11 @@
     "index.html": "/resecan/index.html",
     "static/media/nav-icon2.svg": "/resecan/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.3ee09cc3.css.map": "/resecan/static/css/main.3ee09cc3.css.map",
-    "main.8b446e26.js.map": "/resecan/static/js/main.8b446e26.js.map",
+    "main.8aa02409.js.map": "/resecan/static/js/main.8aa02409.js.map",
     "787.fb771931.chunk.js.map": "/resecan/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ee09cc3.css",
-    "static/js/main.8b446e26.js"
+    "static/js/main.8aa02409.js"
   ]
 }
