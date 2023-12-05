@@ -24,12 +24,12 @@ export const Mechanics = () => {
     {
       title: "Movimiento del ratón",
       description: "Con el moviendo del ratón hacia distintas partes de la pantalla, los jugadores podrían hacer que la cámara gire y explore diferentes áreas del entorno, ademas durante el combate, el movimiento del ratón podría utilizarse para apuntar a los enemigos.",
-      imgUrl: ranton_clic,
+      imgUrl: raton_mov,
     },
     {
       title: "Clic derecho",
       description: "Si se utiliza la tecla de tecla derecha del raton, es un mecanismo para que Eirian pueda derrotar a los enemigos, disparando rayos de energia.",
-      imgUrl: raton_mov,
+      imgUrl: ranton_clic,
     },
     
   ];

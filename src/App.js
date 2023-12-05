@@ -28,6 +28,7 @@ function App() {
         {/* Contenido de la aplicación */}
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/resecan" element={<Home />} />
           <Route path="/history" element={<History />} />
           <Route path="/characters" element={<Characters />} />
           <Route path="/mechanics" element={<Mechanics />} />
