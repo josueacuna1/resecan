@@ -10,6 +10,7 @@ import ragFire from "../assets/img/Personajes/RagFire.png";
 import perritos from "../assets/img/Personajes/perro.png";
 import torspik from "../assets/img/Personajes/torSpik.png";
 import lavaflares from "../assets/img/Personajes/lavaFlares.png";
+import {ItemsCharacters} from './ItemsCharacters'
 
 export const Characters = () => {
   
@@ -49,7 +50,7 @@ export const Characters = () => {
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="skill-bx wow zoomIn">
+            <div className={"skill-bx animate__animated animate__slideInUp"}>
               <h2>Personajes</h2>
               <p style={{fontSize:'1.3em', color:'withe'}}>
                 Los personajes forman un elenco diverso que contribuye de manera
@@ -69,31 +70,34 @@ export const Characters = () => {
               >
                 <div className="item">
                   <h5>Eiran</h5>
-                  <img src={eiran} alt="Image" />
+                  <ItemsCharacters title = 'Eiran 'description= "Eirian es el avatar masculino y principal en el juego. Suele llevar una camiseta amarilla con verde, así como una capa roja y pantalones verdes, su piel es de tono claro, además siempre lleva consigo su escudo y su espada que lo ayuda en cada una de sus misiones." imgUrl={eiran} />
+
                 </div>
                 <div className="item">
                   <h5>Igniclus</h5>
-                  <img src={igniclus} alt="Image" />
+                  <ItemsCharacters title = 'Igniclus'  description= "Imponente criatura de color morado con negro con escamas púrpuras que reside en volcanes. Durante los enfrentamientos se dice puede lanzar fuego con su boca y destruir a cualquiera que se le ponga enfrente con un solo golpe." imgUrl={igniclus} />
+
                 </div>
                 <div className="item">
                   <h5>FlamOseo</h5>
-                  <img src={flamoseo} alt="Image" />
+                  <ItemsCharacters title = 'FlamOseo' description= "Son esqueletos con ojos de fuego que atacan a los que osen entrar a la isla misteriosa, atacan en grupo y son pequeños, pero mortales si alguien se cruza en su camino." imgUrl={flamoseo} />
                 </div>
                 <div className="item">
                   <h5>RagFire</h5>
-                  <img src={ragFire} alt="Image" />
+                  <ItemsCharacters title = 'RagFire' description= "Es un vikingo que fue exiliado por su pueblo, furioso en busca de venganza, deambula por la isla del misterio, esperando vengarse de su tripulación y de cualquier criatura que se le acerque." imgUrl={ragFire} />
+
                 </div>
                 <div className="item">
                   <h5>Perritos</h5>
-                  <img src={perritos} alt="Image" />
+                  <ItemsCharacters title = 'Perritos' description= "Son los habitantes más queridos de la aldea, los cuales fueron raptados por el Igniclus." imgUrl={perritos} />
                 </div>
                 <div className="item">
                   <h5>TorSpike</h5>
-                  <img src={torspik} alt="Image" />
+                  <ItemsCharacters title = 'TorSpike' description= "Es una criatura de color naranja y azul la cual deambula por los frondosos bosques de Althoria, donde le gusta dañar a todas las criaturas que estén en su camino." imgUrl={torspik} />
                 </div>
                 <div className="item">
                   <h5>LavaFlares</h5>
-                  <img src={lavaflares} alt="Image" />
+                  <ItemsCharacters title = 'LavaFlares'  description= "Es una criatura de lava de color rojizo que nace en la tierra de Volcania, es un mensajero, ya que deambula por muchos lados, pero le encanta estar en el bosque generando estragos a su paso." imgUrl={lavaflares} />
                 </div>
               </Carousel>
             </div>

@@ -53,13 +53,13 @@ export const Mechanics = () => {
   ];
 
   return (
-    <section className="project" id="projects">
+    <section className="project animate__animated animate__fadeIn" id="projects">
       <Container style={{marginTop:"5%"}}>
         <Row>
           <Col size={12}>
             <TrackVisibility>
               {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
+              <div>
                 <h2>Mecánica del juego</h2>
                 <p>Estas mecánicas de juego se combinan para proporcionar una experiencia rica y variada a medida que los jugadores se embarcan en la emocionante búsqueda de Eirian para recuperar a los perros robados y derrotar de una vez por todas al temible Igniclus el Monstruo de Lava.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
@@ -74,7 +74,7 @@ export const Mechanics = () => {
                       <Nav.Link eventKey="third">Clasificación</Nav.Link>
                     </Nav.Item>
                   </Nav>
-                  <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
+                  <Tab.Content id="slideInUp">
                     <Tab.Pane eventKey="first">
                     <Row>
                         {

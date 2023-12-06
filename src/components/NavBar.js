@@ -27,6 +27,7 @@ export const NavBar = () => {
   }, []);
 
   const onUpdateActiveLink = (value) => {
+    console.log(value)
     setActiveLink(value);
   };
 
