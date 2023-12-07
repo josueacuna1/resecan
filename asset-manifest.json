@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/resecan/static/css/main.ca590fd8.css",
-    "main.js": "/resecan/static/js/main.bea4e3f2.js",
+    "main.css": "/resecan/static/css/main.278af58d.css",
+    "main.js": "/resecan/static/js/main.ca3ea203.js",
     "static/js/787.e02c0aaf.chunk.js": "/resecan/static/js/787.e02c0aaf.chunk.js",
     "static/media/logogrande-2.svg": "/resecan/static/media/logogrande-2.e2a4bb3d2c13cbe0d0655da0ad68c417.svg",
     "static/media/fondoHome.png": "/resecan/static/media/fondoHome.9264a89eb06dea39a7b3.png",
     "static/media/libro-png.svg": "/resecan/static/media/libro-png.d0fed27d4a1d4ddec427f791643bd1e2.svg",
     "static/media/logo_resk.png": "/resecan/static/media/logo_resk.49161eb853d028c0916b.png",
+    "static/media/igniclus.png": "/resecan/static/media/igniclus.8a7df02f91c813da5abd.png",
     "static/media/CentraNo2-Bold.ttf": "/resecan/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/resecan/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/resecan/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/Eiran.png": "/resecan/static/media/Eiran.5e167bd1b473d6c4924e.png",
-    "static/media/igniclus.png": "/resecan/static/media/igniclus.632e5a18963faf838580.png",
+    "static/media/E_10.png": "/resecan/static/media/E_10.968f79e2f046b65ecaee.png",
     "static/media/torSpik.png": "/resecan/static/media/torSpik.a3d4e7066a1459a1fa76.png",
     "static/media/perro.png": "/resecan/static/media/perro.f119eee6882f17ef35bc.png",
     "static/media/Flamoseo.png": "/resecan/static/media/Flamoseo.150568691a14e35e3bc4.png",
@@ -22,7 +23,9 @@
     "static/media/logo_mini.png": "/resecan/static/media/logo_mini.c148db4582396583bc06.png",
     "static/media/carne.png": "/resecan/static/media/carne.1d3f836faa894d0847f4.png",
     "static/media/botones.png": "/resecan/static/media/botones.2102a8669315d2894470.png",
+    "static/media/esc.png": "/resecan/static/media/esc.a21dd3d425e3dc538cd6.png",
     "static/media/raton.png": "/resecan/static/media/raton.80e2f888401820356cda.png",
+    "static/media/shift.png": "/resecan/static/media/shift.0b407efb0730da2cace4.png",
     "static/media/boton-derecho-del-raton.png": "/resecan/static/media/boton-derecho-del-raton.2207dcd08bd568a8274d.png",
     "static/media/revicons.eot": "/resecan/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/resecan/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -30,12 +33,12 @@
     "static/media/nav-icon3.svg": "/resecan/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "index.html": "/resecan/index.html",
     "static/media/nav-icon2.svg": "/resecan/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.ca590fd8.css.map": "/resecan/static/css/main.ca590fd8.css.map",
-    "main.bea4e3f2.js.map": "/resecan/static/js/main.bea4e3f2.js.map",
+    "main.278af58d.css.map": "/resecan/static/css/main.278af58d.css.map",
+    "main.ca3ea203.js.map": "/resecan/static/js/main.ca3ea203.js.map",
     "787.e02c0aaf.chunk.js.map": "/resecan/static/js/787.e02c0aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca590fd8.css",
-    "static/js/main.bea4e3f2.js"
+    "static/css/main.278af58d.css",
+    "static/js/main.ca3ea203.js"
   ]
 }
