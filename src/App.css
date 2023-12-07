@@ -484,6 +484,13 @@ background: linear-gradient(177deg, rgba(253,29,29,0.7049194677871149) 0%, rgba(
   width: 90%;
 }
 
+.e_10 {
+  height: auto;
+  width: 20%;
+  text-align: center;
+}
+
+
 .proj-imgbx__:hover  img {
   filter: blur(4px);
   transition: 0.4s;
@@ -608,8 +615,8 @@ background: linear-gradient(177deg, rgba(253,29,29,0.7049194677871149) 0%, rgba(
 /************ Footer Css ************/
 .footer {
   padding: 20px 0 40px 0;
-  background: rgb(2,0,36);
-  background: linear-gradient(265deg, rgba(2,0,36,1) 0%, rgba(6,5,85,1) 10%, rgba(9,9,121,1) 20%, rgba(0,212,255,1) 100%);
+  background: rgb(182,213,126);
+  background: linear-gradient(145deg, rgba(182,213,126,1) 0%, rgba(29,142,147,1) 100%);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;

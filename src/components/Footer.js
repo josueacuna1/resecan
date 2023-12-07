@@ -11,7 +11,7 @@ export const Footer = () => {
           <Col size={12} sm={9}>
             <img src={logo} alt="Logo" />
             <div className="newsletter-bx ">
-              <h3>Eirian y los perritos te necesitan, ¿Te unes al rescate?</h3>
+              <h3>Eirian y los perritos te necesitan, ¿te unes al rescate?</h3>
             </div>
           </Col>
           <Col size={12} sm={3} className="text-center text-sm-end">
@@ -23,7 +23,7 @@ export const Footer = () => {
                 <img src={navIcon3} alt="Icon" />
               </a>
             </div>
-            <p>Copyright 2023. Ctrl Fusion</p>
+            <p style={{color:"white", fontWeight: "bold"}}>Copyright 2023. Ctrl Fusion</p>
           </Col>
         </Row>
       </Container>

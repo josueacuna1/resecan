@@ -69,23 +69,22 @@ export const Characters = () => {
                 className="owl-carousel owl-theme skill-slider"
               >
                 <div className="item">
-                  <h5>Eiran</h5>
-                  <ItemsCharacters title = 'Eiran 'description= "Eirian es el avatar masculino y principal en el juego. Suele llevar una camiseta amarilla con verde, así como una capa roja y pantalones verdes, su piel es de tono claro, además siempre lleva consigo su escudo y su espada que lo ayuda en cada una de sus misiones." imgUrl={eiran} />
+                  <h5>FlamOseo</h5>
+                  <ItemsCharacters title = 'FlamOseo' description= "Son esqueletos con ojos de fuego que atacan a los que osen entrar a la isla misteriosa, atacan en grupo y son pequeños, pero mortales si alguien se cruza en su camino, este enemigo posé un gran ataque debido a que hace 35 puntos de daño y tiene 300 puntos de vida, lo que lo convierte en un enemigo formidable." imgUrl={flamoseo} />
+                </div>
+                <div className="item">
+                  <h5>Eirian</h5>
+                  <ItemsCharacters title = 'Eirian 'description= "Eirian es el avatar masculino y principal en el juego. Suele llevar una camiseta amarilla con verde, así como una capa roja y pantalones verdes, su piel es de tono claro, además siempre lleva consigo su escudo y su espada que lo ayuda en cada una de sus misiones, adicional, la espada de Eirian tiene un ataque de 30 puntos hacia los enemigos y el una puntuación de vida de 100 puntos." imgUrl={eiran} />
 
                 </div>
                 <div className="item">
                   <h5>Igniclus</h5>
-                  <ItemsCharacters title = 'Igniclus'  description= "Imponente criatura de color morado con negro con escamas púrpuras que reside en volcanes. Durante los enfrentamientos se dice puede lanzar fuego con su boca y destruir a cualquiera que se le ponga enfrente con un solo golpe." imgUrl={igniclus} />
+                  <ItemsCharacters title = 'Igniclus'  description= "Imponente criatura de color rojo con negro con escamas anaranjadas que reside en volcanes. Durante los enfrentamientos se dice puede lanzar fuego con su boca y destruir a cualquiera que se le ponga enfrente con un solo golpe, este malvado enemigo y jefe final tiene 50 puntos de daño y representa un reto constante, pues posee 1000 puntos de vida." imgUrl={igniclus} />
 
-                </div>
-                <div className="item">
-                  <h5>FlamOseo</h5>
-                  <ItemsCharacters title = 'FlamOseo' description= "Son esqueletos con ojos de fuego que atacan a los que osen entrar a la isla misteriosa, atacan en grupo y son pequeños, pero mortales si alguien se cruza en su camino." imgUrl={flamoseo} />
                 </div>
                 <div className="item">
                   <h5>RagFire</h5>
-                  <ItemsCharacters title = 'RagFire' description= "Es un vikingo que fue exiliado por su pueblo, furioso en busca de venganza, deambula por la isla del misterio, esperando vengarse de su tripulación y de cualquier criatura que se le acerque." imgUrl={ragFire} />
-
+                  <ItemsCharacters title = 'RagFire' description= "Es un vikingo que fue exiliado por su pueblo, furioso en busca de venganza, deambula por la isla del misterio, esperando vengarse de su tripulación y de cualquier criatura que se le acerque, este enemigo poderoso de la isla, tiene un daño de ataque de 30 puntos y una vida de 100 puntos." imgUrl={ragFire} />
                 </div>
                 <div className="item">
                   <h5>Perritos</h5>
@@ -93,11 +92,11 @@ export const Characters = () => {
                 </div>
                 <div className="item">
                   <h5>TorSpike</h5>
-                  <ItemsCharacters title = 'TorSpike' description= "Es una criatura de color naranja y azul la cual deambula por los frondosos bosques de Althoria, donde le gusta dañar a todas las criaturas que estén en su camino." imgUrl={torspik} />
+                  <ItemsCharacters title = 'TorSpike' description= "Es una criatura de color naranja y azul la cual deambula por los frondosos bosques de Althoria, donde le gusta dañar a todas las criaturas que estén en su camino, adicional pose una puntuación de vida de 100 puntos y su ataque es uno de los más bajos con tan solo 10 puntos de daño." imgUrl={torspik} />
                 </div>
                 <div className="item">
                   <h5>LavaFlares</h5>
-                  <ItemsCharacters title = 'LavaFlares'  description= "Es una criatura de lava de color rojizo que nace en la tierra de Volcania, es un mensajero, ya que deambula por muchos lados, pero le encanta estar en el bosque generando estragos a su paso." imgUrl={lavaflares} />
+                  <ItemsCharacters title = 'LavaFlares'  description= "Es una criatura de lava de color rojizo que nace en la tierra de Volcania, es un mensajero, ya que deambula por muchos lados, pero le encanta estar en el bosque generando estragos a su paso, adicional pose una puntuación de vida de 100 puntos y su ataque junto con los TorSpike´s es de tan solo 10 puntos de daño (pero no te confíes, es letal)." imgUrl={lavaflares} />
                 </div>
               </Carousel>
             </div>
